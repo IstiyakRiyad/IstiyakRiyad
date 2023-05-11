@@ -8,22 +8,24 @@ I'm currently doing my undergrad on **Computer Science & Engineering** at _[RUET
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go">
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
 
-- **Backend** - `Express.js` `Node.JS` `SQL`
+- **Backend** - `Express.js` `Node.JS` `Go` `SQL`
 - **API** - `Rest` `Swagger` `Postman` `Insomnia`
-- **Database** - `MySQL` `PostgreSQL` `MongoDB`
+- **Database** - `PostgreSQL` `Redis` `MySQL` `MongoDB`
 - **Tests** - `Jest` `Supertest`
-- **Cloud** - `Azure` `AWS` `Heroku`
-- **Infrastructure** - `Docker` `Kubernetes` `VMware` `Proxmox Server`
+- **Cloud** - `AWS` `Azure` `GCP` `Heroku`
+- **Infrastructure** - `Docker` `Kubernetes` `Github Action` `VMware` `Proxmox Server`
 - **Frontend** - `React` `Vite` `Three.js` `Bootstrap` 
-- **Languages** - `TypeScript` `JavaScript` `Python` `C++` `Rust`
+- **Languages** - `TypeScript` `Go` `JavaScript` `Python` `C++` `Rust`
 
 <!--
 **IstiyakRiyad/IstiyakRiyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
